@@ -17,7 +17,7 @@ cd hancel_android
 ./gradlew assembleDebug
 ```
 
-## Updates
+# Updates
 
 Is possible that the submodules will be updated in the future, for this, please run before:
 
@@ -25,7 +25,7 @@ Is possible that the submodules will be updated in the future, for this, please 
 git submodule update --init --recursive
 ```
 
-## Troubleshooting
+# Troubleshooting
 
 For signed versions and possible `api-key` issues please generate your own API keys for the next services and put it in `app/src/main/res/values/api_keys.xml` like this:
 
