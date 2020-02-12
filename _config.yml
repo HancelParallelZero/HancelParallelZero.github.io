@@ -1,13 +1,13 @@
 title: Hancel Parallel Zero
-email: contacto@karisma.org.co
+email: hpsaturn@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hancel is an open source security app designed for Android mobiles
   having in mind journalists and activists, but useful for a 
   more general public. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: hpsaturn
+github_username:  hpsaturn
 
 # Build settings
 # theme: jekyll-theme-midnight
